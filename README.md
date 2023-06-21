@@ -1,2 +1,2 @@
-# Cocktail website with search functionality 
+## Cocktail website with search functionality 
 
